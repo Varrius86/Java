@@ -1,2 +1,4 @@
-package com.varrius.second;public class Auch {
+package com.varrius.second;
+
+public class Auch {
 }

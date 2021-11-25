@@ -1,2 +1,4 @@
-package com.varrius.second;public class reg {
+package com.varrius.second;
+
+public class reg {
 }
